@@ -1,2 +1,3 @@
-# machine_learning
+# Machine Learning
+
 Machine Learning Repository
